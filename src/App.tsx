@@ -4,10 +4,10 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="app">
 
       </div>
-      <h1>Vite + React</h1>
+
 
     </>
   )
